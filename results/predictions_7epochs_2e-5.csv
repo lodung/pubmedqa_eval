@@ -1,0 +1,101 @@
+﻿STT,PubMed_ID,Question,Ground_Truth,BioBERT_Prediction,Is_Correct,Prob_Yes,Prob_No,Prob_Maybe
+1,15483019,Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?,yes,yes,DUNG,0.4943,0.1438,0.3619
+2,24450673,Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth the additional cost of radiation and time?,no,yes,SAI,0.5854,0.1585,0.2561
+3,9582182,Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?,yes,yes,DUNG,0.8677,0.0179,0.1144
+4,25636371,Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?,maybe,no,SAI,0.1798,0.4298,0.3904
+5,25987398,The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?,maybe,no,SAI,0.0288,0.8884,0.0828
+6,23571528,Sternal skin conductance: a reasonable surrogate for hot flash measurement?,no,yes,SAI,0.8002,0.0373,0.1625
+7,20101129,Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?,maybe,yes,SAI,0.6961,0.1240,0.1798
+8,25940336,Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?,yes,yes,DUNG,0.9548,0.0073,0.0379
+9,11411430,Antral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH?,maybe,yes,SAI,0.9298,0.0119,0.0583
+10,23002947,Does feeding tube insertion and its timing improve survival?,no,no,DUNG,0.0060,0.9644,0.0297
+11,12970636,Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?,no,yes,SAI,0.9548,0.0089,0.0363
+12,23719685,Does high-dose radiotherapy benefit palliative lung cancer patients?,no,no,DUNG,0.0916,0.7317,0.1767
+13,10340286,Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?,maybe,no,SAI,0.0073,0.9327,0.0600
+14,10456814,Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?,no,no,DUNG,0.0403,0.8467,0.1130
+15,18403944,Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?,maybe,yes,SAI,0.4948,0.1702,0.3350
+16,15112004,Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?,no,yes,SAI,0.5831,0.2133,0.2036
+17,11555508,Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?,yes,yes,DUNG,0.9003,0.0194,0.0803
+18,22656647,Are acceptance rates of a national preventive home visit programme for older people socially imbalanced?,yes,yes,DUNG,0.6834,0.0703,0.2463
+19,25475395,Is there a correlation between androgens and sexual desire in women?,yes,yes,DUNG,0.5091,0.1642,0.3268
+20,27643961,Major depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression?,no,maybe,SAI,0.2737,0.3469,0.3793
+21,27909738,Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?,no,yes,SAI,0.5932,0.1397,0.2670
+22,18926458,Are octogenarians at high risk for carotid endarterectomy?,no,yes,SAI,0.8422,0.0483,0.1095
+23,9381529,Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?,yes,yes,DUNG,0.8799,0.0347,0.0854
+24,17224424,Effects of exercise training on heart rate and QT interval in healthy young individuals: are there gender differences?,yes,no,SAI,0.2770,0.3979,0.3252
+25,26079501,Does base deficit predict mortality in patients with severe traumatic brain injury?,no,yes,SAI,0.3698,0.3130,0.3172
+26,9488747,"Syncope during bathing in infants, a pediatric form of water-induced urticaria?",yes,yes,DUNG,0.8756,0.0346,0.0898
+27,10430303,Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?,yes,yes,DUNG,0.4816,0.2015,0.3169
+28,26852225,Is adjustment for reporting heterogeneity necessary in sleep disorders?,no,yes,SAI,0.7945,0.0796,0.1259
+29,22970993,Does sex affect the outcome of laparoscopic cholecystectomy?,yes,yes,DUNG,0.5419,0.2167,0.2414
+30,17192736,Is fluoroscopy essential for retrieval of lower ureteric stones?,no,yes,SAI,0.7548,0.0786,0.1666
+31,26606599,Do Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum?,maybe,yes,SAI,0.8907,0.0295,0.0798
+32,22154448,Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky technique?,no,no,DUNG,0.2011,0.5698,0.2291
+33,24139705,Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?,yes,yes,DUNG,0.8033,0.0388,0.1580
+34,22564465,Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?,yes,yes,DUNG,0.4842,0.1499,0.3658
+35,25985014,Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?,no,yes,SAI,0.8197,0.0385,0.1418
+36,15943725,Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?,yes,yes,DUNG,0.6675,0.1735,0.1590
+37,16432652,Transgastric endoscopic splenectomy: is it possible?,yes,yes,DUNG,0.9573,0.0085,0.0341
+38,11977907,Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?,yes,yes,DUNG,0.8279,0.0351,0.1370
+39,25588461,Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?,yes,yes,DUNG,0.9542,0.0083,0.0375
+40,16816043,Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?,maybe,yes,SAI,0.8535,0.0204,0.1260
+41,24973051,Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?,no,yes,SAI,0.7859,0.0436,0.1705
+42,17342562,The clinical significance of bile duct sludge: is it different from bile duct stones?,no,no,DUNG,0.0263,0.8966,0.0771
+43,24476003,Is nasogastric decompression useful in prevention of leaks after laparoscopic sleeve gastrectomy?,no,yes,SAI,0.7276,0.1400,0.1323
+44,9745063,Is laparoscopic sonography a reliable and sensitive procedure for staging colorectal cancer?,yes,yes,DUNG,0.4628,0.1674,0.3698
+45,20197761,Is irritable bowel syndrome a diagnosis of exclusion?,maybe,yes,SAI,0.6161,0.0919,0.2920
+46,22534881,Does the radiographic transition zone correlate with the level of aganglionosis on the specimen in Hirschsprung's disease?,no,no,DUNG,0.2023,0.4789,0.3189
+47,24614851,Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?,yes,yes,DUNG,0.9426,0.0098,0.0476
+48,18274917,Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?,no,no,DUNG,0.1398,0.6611,0.1991
+49,27050505,Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?,yes,yes,DUNG,0.7522,0.0707,0.1771
+50,10966943,Amblyopia: is visual loss permanent?,no,yes,SAI,0.6821,0.0939,0.2240
+51,16392897,BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?,maybe,yes,SAI,0.9248,0.0172,0.0580
+52,12765819,Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?,yes,yes,DUNG,0.7477,0.0608,0.1915
+53,27131771,Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?,yes,yes,DUNG,0.3755,0.3045,0.3200
+54,20594006,A patient with myelomeningocele: is untethering necessary prior to scoliosis correction?,no,no,DUNG,0.3349,0.3821,0.2831
+55,22900881,Should pulp chamber pulpotomy be seen as a permanent treatment?,no,yes,SAI,0.6628,0.1143,0.2229
+56,22504515,Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?,no,yes,SAI,0.6961,0.0918,0.2121
+57,11970923,Convulsions and retinal haemorrhage: should we look further?,yes,yes,DUNG,0.5520,0.1701,0.2779
+58,21745056,Global Longitudinal Pathway: has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?,yes,yes,DUNG,0.8576,0.0282,0.1142
+59,19237087,Are many colorectal cancers due to missed adenomas?,no,no,DUNG,0.0217,0.8580,0.1202
+60,23360491,Is the processing of affective prosody influenced by spatial attention?,maybe,yes,SAI,0.8607,0.0242,0.1151
+61,23222920,Pancreas retransplantation:  a second chance for diabetic patients?,yes,yes,DUNG,0.8151,0.0769,0.1081
+62,17610439,Do hospitals provide lower quality care on weekends?,yes,yes,DUNG,0.9506,0.0119,0.0375
+63,27096199,Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?,no,yes,SAI,0.9035,0.0182,0.0782
+64,25982163,Appendectomy timing: Will delayed surgery increase the complications?,no,yes,SAI,0.9269,0.0185,0.0546
+65,16809243,Is fetal gender associated with emergency department visits for asthma during pregnancy?,no,no,DUNG,0.0039,0.9754,0.0207
+66,16991071,Rotator cuff tear--an occupational disease?,yes,yes,DUNG,0.8614,0.0321,0.1065
+67,25986020,Is zero central line-associated bloodstream infection rate sustainable?,yes,yes,DUNG,0.9215,0.0207,0.0578
+68,16498158,Is atropine needed with ketamine sedation?,yes,yes,DUNG,0.7498,0.0524,0.1978
+69,18378554,Are wandering and physically nonaggressive agitation equivalent?,no,yes,SAI,0.4240,0.1740,0.4020
+70,22117569,Is an advance care planning model feasible in community palliative care?,yes,yes,DUNG,0.9164,0.0142,0.0694
+71,19575104,Do foreign bodies migrate through the body towards the heart?,no,yes,SAI,0.8689,0.0324,0.0987
+72,11867487,Does rugby headgear prevent concussion?,maybe,no,SAI,0.0043,0.9554,0.0403
+73,8200238,Must early postoperative oral intake be limited to laparoscopy?,no,no,DUNG,0.0695,0.7558,0.1748
+74,25043083,Are failures of anterior cruciate ligament reconstruction associated with steep posterior tibial slopes?,yes,yes,DUNG,0.9379,0.0096,0.0525
+75,25571931,Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?,maybe,yes,SAI,0.6017,0.1082,0.2901
+76,16778275,Is routine chest radiography after transbronchial biopsy necessary?,no,no,DUNG,0.0163,0.8841,0.0996
+77,25394614,Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?,maybe,no,SAI,0.0109,0.9325,0.0566
+78,15369037,Do people who were passive smokers during childhood have increased risk of long-term work disability?,yes,yes,DUNG,0.9049,0.0219,0.0732
+79,18784527,Can mandibular depiction be improved by changing the thickness of double-oblique computed tomography images?,no,yes,SAI,0.9276,0.0210,0.0514
+80,12095973,Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?,no,yes,SAI,0.4600,0.2292,0.3108
+81,25274085,Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?,no,yes,SAI,0.9307,0.0112,0.0581
+82,15125825,Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?,yes,no,SAI,0.2320,0.4519,0.3160
+83,10331115,Is amoxapine an atypical antipsychotic?,yes,no,SAI,0.0590,0.6666,0.2743
+84,7547656,Does continuous intravenous infusion of low-concentration epinephrine impair uterine blood flow in pregnant ewes?,no,maybe,SAI,0.3662,0.2499,0.3839
+85,12163782,Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?,yes,yes,DUNG,0.9509,0.0113,0.0378
+86,16151770,Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?,yes,yes,DUNG,0.7285,0.0517,0.2198
+87,17593459,Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?,yes,yes,DUNG,0.9287,0.0150,0.0563
+88,20629769,Is primary angioplasty an acceptable alternative to thrombolysis?,yes,yes,DUNG,0.6362,0.0915,0.2723
+89,12836106,Does the leukocyte count correlate with the severity of injury?,yes,yes,DUNG,0.9231,0.0169,0.0600
+90,11079675,Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?,yes,no,SAI,0.0471,0.7859,0.1671
+91,23379759,Can early second-look tympanoplasty reduce the rate of conversion to modified radical mastoidectomy?,yes,yes,DUNG,0.8780,0.0301,0.0918
+92,10749257,Has the mammography quality standards act affected the mammography quality in North Carolina?,yes,yes,DUNG,0.7883,0.0468,0.1649
+93,24374414,Does health information exchange reduce redundant imaging?,yes,yes,DUNG,0.9332,0.0141,0.0527
+94,8921484,Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?,no,yes,SAI,0.5325,0.1914,0.2761
+95,8847047,Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?,no,no,DUNG,0.1421,0.5877,0.2702
+96,19230985,Post-tonsillectomy late haemorrhage: is it a preferably night-time event?,yes,yes,DUNG,0.4767,0.1927,0.3307
+97,17453263,Are physician estimates of asthma severity less accurate in black than in white patients?,yes,yes,DUNG,0.8540,0.0227,0.1233
+98,18375490,Are laboratories reporting serum quantitative hCG results correctly?,no,no,DUNG,0.0338,0.6659,0.3003
+99,18708308,Can surgeon familiarization with current evidence lead to a change in practice?,no,yes,SAI,0.4753,0.3889,0.1359
+100,12790890,Is the cell death in mesial temporal sclerosis apoptotic?,maybe,no,SAI,0.0306,0.8220,0.1474
