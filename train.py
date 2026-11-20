@@ -39,7 +39,7 @@ print(f"--> Thiết bị tính toán sử dụng: {device_name}")
 print("[3/4] Cấu hình tham số huấn luyện...")
 training_args = TrainingArguments(
     output_dir=CHECKPOINTS_DIR,
-    num_train_epochs=7,                     # 3 epochs chuẩn theo bài báo gốc Jin et al. (2019)
+    num_train_epochs=16,                     # 3 epochs chuẩn theo bài báo gốc Jin et al. (2019)
     per_device_train_batch_size=8,          # Batch size 8 tối ưu cho bộ nhớ
     gradient_accumulation_steps=2,         # Tích lũy gradient (tương đương effective batch size = 16)
     learning_rate=2e-5,                     # Learning rate chuẩn cho fine-tuning BERT
