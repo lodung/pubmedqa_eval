@@ -11,7 +11,7 @@ dataset = load_dataset(
     cache_dir="./data"
 )
 
-print("\n--> [THÀNH CÔNG] Dữ liệu đã được tải về!")
+print("\n[THÀNH CÔNG] Dữ liệu đã được tải về!")
 print(f"Tổng số câu hỏi tải được: {len(dataset['train'])} câu.")
 
 # In thử câu hỏi đầu tiên để kiểm tra
